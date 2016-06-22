@@ -1,7 +1,7 @@
 *.pyc
 __pycache__
-env3
-env
+env3/
+env/
 db.sqlite3
 /static
 .DS_Store
